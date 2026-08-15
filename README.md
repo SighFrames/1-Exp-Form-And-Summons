@@ -4,7 +4,7 @@ This mod is NOT intended to be used with GOA Randomizer, as that mod already has
 
 Once this mod has been downloaded, you can alter the EXP values by editing the FmlvList.yml An example of the FmlvList.yml can be seen below:
 
-```
+```yaml
 Valor: #This is the current form you are editing.
 - FormId: 1 #This is the ID # for the form. Don't change this.
   FormLevel: 1 #This indicated the form level. Don't change this.
