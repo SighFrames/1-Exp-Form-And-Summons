@@ -1,0 +1,13 @@
+title: 1 EXP Form Levels
+description: Sets required EXP for all Drive Form and Summon levels to 1.
+originalAuthor: SighFrames
+assets:
+- name: 00battle.bin
+  method: binarc
+  source:
+  - name: fmlv
+    method: listpatch
+    type: List
+    source:
+    - name: FmlvList.yml
+      type: fmlv
