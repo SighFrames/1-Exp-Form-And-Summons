@@ -2,7 +2,7 @@ This mod sets required EXP for all Drive Form and Summon levels to 1. The goal o
 
 This mod is NOT intended to be used with GOA Randomizer, as that mod already has an option to modify form EXP values.
 
-Once this mod has been downloaded, you can alter the EXP values by editing the FmlvList.yml An example of the FmlvList.yml can be seen below:
+Once this mod has been downloaded, you can alter the EXP values by editing the **FmlvList.yml** An example of the **FmlvList.yml** can be seen below:
 
 ```yaml
 Valor: #This is the current form you are editing.
