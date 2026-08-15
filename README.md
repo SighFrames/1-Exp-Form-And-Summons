@@ -1,3 +1,5 @@
+While this mod has been made before, I made this with the intention of learning how to mod KH2. This is my first mod. I used the tools bundled with OpenKH to extract and modify the files. I also used the documentation at https://openkh.dev to determine the correct values.
+
 This mod sets required EXP for all Drive Form and Summon levels to 1. The goal of this mod is to remove the repetitive form and summon grinding if you've played the game before.
 
 This mod is NOT intended to be used with GOA Randomizer, as that mod already has an option to modify form EXP values.
